@@ -1,30 +1,32 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi, my name is Evan, and I am a 4th year Mathematics, Computational and Statistical Sciences (MCSS) student at Yale-NUS College. I took on the MCSS major as a challenge, to see how I could think more logically and meticulously, which is a part of an answer to a larger philosophical question I posed to myself before college: "What do I need to learn in order to be a responsible citizen in society?". I believe that learning never stops, and I learn in order to be less ignorant and more aware of how I can contribute to society, whether it be through accumulating and applying knowledge, and through communicating responsibly and sincerely. This blog, is a repository of what I am learning day to day.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I have 2 old blogs, one on my internship experience at Metalworks, and another documenting my Japanese learning journey.
 
-There are currently two themes built on Poole:
+* [Metalworks](http://tailrecursive.wordpress.com)
+* [Japanese Learning](http://ninjawanderer.wordpress.com)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Check out my [GitHub](https://github.com/evanma92).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Interests
 
-## Setup
+Some of my interests include:
 
-Some fun facts about the setup of this project include:
+* Learning languages. Spent the last 3 years learning Japanese, and now trying to learn Spanish.
+* Playing pool. Some of my heroes include [Ronnie O' Sullivan](https://www.youtube.com/watch?v=McThDshEgU0), and [Efren Reyes](https://www.youtube.com/watch?v=UXbYTHrsZZ4).
+* Making a good cup of [coffee](https://www.youtube.com/watch?v=Nw2uxM-HTb8). 
+* Japanese culture. Inspired to learn by NHK Documentaries like [Trails to Tsukiji](https://www3.nhk.or.jp/nhkworld/en/vod/tsukiji/) and [The Professionals](https://www3.nhk.or.jp/nhkworld/en/tv/professionals/).
+* Cooking. Baked muffins, cakes and quiches at the Muffinry 3 years ago. Experimenting with [dishes from YouTube](https://www.youtube.com/watch?v=pk2TdfB4LFc) from time to time.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+As it may be evident, I enjoy doing things with tangible outputs, and enjoy things that offer me new ways of thinking about the way I live my life.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Drop me an [email](mailto: evanma92@gmail.com) if you want to catch a cup of coffee!
 
 Thanks for reading!
