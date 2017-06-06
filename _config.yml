@@ -6,10 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Evan Ma
+description:      '<a href="https://www.yale-nus.edu.sg/">Yale-NUS College</a> student'
 baseurl:          /
 gems:			  
 - jekyll-paginate
@@ -18,8 +16,8 @@ gems:
 - pygments.rb
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Evan Ma'
+  url:            https://twitter.com/evanma2014
 
 paginate:         5
 
@@ -27,4 +25,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/evanma92
