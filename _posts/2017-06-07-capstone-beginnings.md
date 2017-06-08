@@ -1,7 +1,6 @@
 ---
-published: false
+published: true
 ---
-# Capstone Beginnings
 
 1 month into my summer vacation, and I have been spending time doing research on ecological modelling, wrapping up work at Code Gakko and doing a side project on scraping and representing MOE data. With 2 more months left, I have decided to start a series on my capstone topic, so that I may document the research I’m doing, and make it more robust. From time to time, I will also put up my thoughts regarding Code Gakko as well as my side project as and when I make some progress.
 
