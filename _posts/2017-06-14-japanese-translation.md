@@ -18,3 +18,5 @@ One thing that really surprised me, was that 親愛なるお客様 was used in J
 Also, some of my must-go-to websites while I'm doing translation are [Linguee](https://linguee.jp), [Weblio](https://ejje.weblio.jp) and good old [Google](https://google.com.sg).
 
 Okay back to working on my translation!
+
+P.S. I was wondering how best to translate the word "regional" and I thought, which was better, 地域 or 地方 and I found this ![explanation]({{site.baseurl}}/_posts/region-explanation.png)!)
