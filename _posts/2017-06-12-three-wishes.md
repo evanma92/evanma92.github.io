@@ -1,4 +1,4 @@
-I wrote this poem last week in Boston, out of concern for a person whom I thought too rationally about things. A few thoughts on what it means to feel, and listen to one's own feelings.
+I wrote this poem last week in Boston, out of concern for a person who, in my opinion, thought too rationally about things. A few thoughts on what it means to feel, and listen to one's own feelings.
 
 To a person,  
 Who I respect and admire  
