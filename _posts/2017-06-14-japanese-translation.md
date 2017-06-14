@@ -19,4 +19,4 @@ Also, some of my must-go-to websites while I'm doing translation are [Linguee](h
 
 Okay back to working on my translation!
 
-P.S. I was wondering how best to translate the word "regional" and I thought, which was better, 地域 or 地方 and I found this ![explanation]({{site.url}}/_posts/region-explanation.png)
+P.S. I was wondering how best to translate the word "regional" and I thought, which was better, 地域 or 地方 and I found this [explanation](https://hinative.com/ja/questions/23841)
