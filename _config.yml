@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -13,7 +13,6 @@ gems:
 - jekyll-paginate
 - redcarpet
 - jekyll-gist
-- pygments.rb
 
 author:
   name:           'Evan Ma'
